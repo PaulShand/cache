@@ -27,9 +27,4 @@
 - **Testing**: Includes various test cases and edge case evaluations, ensuring the robustness of the implementation.
 - **Memory Management**: Verified with Valgrind to ensure no memory leaks.
 
-## Challenges and Successes
-
-- **Code Structure**: While the code structure became complex over time due to incremental implementations, it successfully meets the project requirements.
-- **Functionality**: Successfully simulates FIFO, LRU, and Clock cache mechanisms in a controlled environment.
-
 This project offers valuable insights into cache algorithms and their implementations, serving as a practical exploration of caching strategies in computer systems.
